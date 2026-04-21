@@ -1,2 +1,2 @@
-# Clearpath_project
+# clearpath-crm
 test automatisation
